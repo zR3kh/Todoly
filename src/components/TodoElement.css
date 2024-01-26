@@ -1,0 +1,18 @@
+.todo-element {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    width: fit-content;
+    min-width: 300px;
+    background-color: white;
+    border-radius: 20px;
+    margin-block: 10px;
+}
+.todo-element > p {
+    margin: 10px 25px;
+    user-select: none;
+}
+.todo-element__todo-status {
+    font-weight: bold;
+    cursor: pointer;
+}

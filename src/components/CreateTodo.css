@@ -1,0 +1,15 @@
+#todo-text {
+    margin-block: 20px;
+}
+.radio-list div {
+    display: flex;
+    align-items: center;
+}
+.radio-list p {
+    margin: 0;
+    padding-left: 0.5rem;
+    margin-block: 2px;
+}
+.create-btn {
+    margin-top: 20px;
+}
